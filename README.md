@@ -1,1 +1,1 @@
-# MyCode
+# Python自学笔记
